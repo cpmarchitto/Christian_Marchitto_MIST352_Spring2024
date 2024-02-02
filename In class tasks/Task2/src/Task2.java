@@ -1,4 +1,7 @@
 /**
+ * Author: Christian Marchitto
+ * Class: MIST 352
+ * Task2
  * Word Game
  * 
  */
